@@ -1,0 +1,10 @@
+.container {
+    background-color: rgba(15, 15, 15, 0.700);
+    max-width: 500px;
+    margin: 30px auto;
+    overflow: auto;
+    min-height: 300px;
+    border: 2px solid rgb(8, 8, 8);
+    padding: 30px;
+    border-radius: 10px;
+}
