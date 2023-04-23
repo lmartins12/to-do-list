@@ -3,6 +3,8 @@
 Lista de tarefas simples com funções de adicionar, deletar e visualizar informações das tarefas.<br>
 Neste projeto foi utilizado React, Node.js e uma API para alimentar a lista com algumas tarefas automaticamente.
 
+[Acesse aqui o site](https://lmartins12-todolist.vercel.app/)
+
 ## Preview:
 
 ![image](https://user-images.githubusercontent.com/96502027/193208992-74db3c7c-9986-4d5b-8a64-0fb9385e2fb3.png)
